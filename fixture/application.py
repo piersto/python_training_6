@@ -20,6 +20,7 @@ class Application:
         self.contact = ContactHelper(self)
         self.base_url = base_url
         self.secret_password = secret_password
+#        self.wd.maximize_window()
 
     def is_valid(self):
         try:
