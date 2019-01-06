@@ -1,38 +1,44 @@
 [
   {
-    "name": "",
-    "header": " header",
+    "py/object": "model.group.Group",
     "footer": "",
-    "id": null
+    "header": " header",
+    "id": null,
+    "name": ""
   },
   {
-    "name": "Name5W4h& ]>6",
-    "header": "Header0V\"y",
-    "footer": "Footer5r;",
-    "id": null
+    "py/object": "model.group.Group",
+    "footer": "FooterH(f|J",
+    "header": "HeaderOIYY",
+    "id": null,
+    "name": "Name-OoVU!"
   },
   {
-    "name": "Namec",
-    "header": "Header5j",
-    "footer": "FooterHR<",
-    "id": null
-  },
-  {
-    "name": "NameSGCJ v:'",
-    "header": "Headerj/xb",
-    "footer": "Footer,oy",
-    "id": null
-  },
-  {
-    "name": "Name$}h6/q",
+    "py/object": "model.group.Group",
+    "footer": "Footer",
     "header": "Header ",
-    "footer": "Footer[iyi",
-    "id": null
+    "id": null,
+    "name": "Name>a98&/f}"
   },
   {
-    "name": "Name$^#cb",
-    "header": "Header(%7",
-    "footer": "Footerpau ",
-    "id": null
+    "py/object": "model.group.Group",
+    "footer": "Footer[%KJr",
+    "header": "HeaderA3N",
+    "id": null,
+    "name": "Name Q.4;"
+  },
+  {
+    "py/object": "model.group.Group",
+    "footer": "Footer*G",
+    "header": "HeaderY",
+    "id": null,
+    "name": "NameM-."
+  },
+  {
+    "py/object": "model.group.Group",
+    "footer": "Footer2[)",
+    "header": "HeaderJx",
+    "id": null,
+    "name": "Name~&]J"
   }
 ]
